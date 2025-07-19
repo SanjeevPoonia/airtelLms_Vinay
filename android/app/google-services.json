@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453002064585",
+    "project_id": "lms-key-28dcf",
+    "storage_bucket": "lms-key-28dcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453002064585:android:33688396874fd763fc1318",
+        "android_client_info": {
+          "package_name": "com.qdegrees.lms_key.airtel_lms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnjlO28Gnt3i7nPSS5lnsIZu-yxMk-XJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
